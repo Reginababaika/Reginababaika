@@ -7,7 +7,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reginababaika)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=reginababaika&layout=compact)
 
-<div id="badges", align="center">
+<h3 align="left">Contact me:</h3>
+<div id="badges">
   <a href="https://www.linkedin.com/in/regina-lubkovskaia/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
