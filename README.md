@@ -3,7 +3,7 @@
 <h3 align="center">Python Developer</h3>
 <h3 align="left">Languages and Tools: Python/Django/Django REST Framework/PostgreSQL/HTML/CSS/Linux</h3>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reginababaika&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reginababaika)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reginababaika&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reginababaika&theme=solarized_dark)
 
