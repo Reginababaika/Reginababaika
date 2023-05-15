@@ -3,7 +3,7 @@
 <h3 align="center">Python Developer</h3>
 <h3 align="center">Languages and Tools: Python/Django/Django REST Framework/PostgreSQL/HTML/CSS/Linux</h3>
 
-<align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reginababaika&layout=compact)](https://github.com/reginababaika/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reginababaika&layout=compact)](https://github.com/reginababaika/github-readme-stats)
 
 <div id="badges", align="center">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/regina-lubkovskaia/)">
