@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reginababaika&layout=compact)](https://github.com/reginababaika/github-readme-stats)
 
 <div id="badges", align="center">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/regina-lubkovskaia/)">
+  <a href="https://www.linkedin.com/in/regina-lubkovskaia/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/Reginalubk">
