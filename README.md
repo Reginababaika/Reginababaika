@@ -5,7 +5,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reginababaika&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reginababaika&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reginababaika&theme=solarized_dark)(https://github.com/reginababaika/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reginababaika&theme=solarized_dark)
 
 <div id="badges", align="center">
   <a href="https://www.linkedin.com/in/regina-lubkovskaia/">
