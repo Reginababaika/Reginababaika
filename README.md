@@ -5,7 +5,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reginababaika)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reginababaika)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reginababaika)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=reginababaika&layout=compact)
 
 <div id="badges", align="center">
   <a href="https://www.linkedin.com/in/regina-lubkovskaia/">
