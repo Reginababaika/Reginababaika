@@ -4,8 +4,8 @@
 <h3 align="left">Languages and Tools: Python/Django/Django REST Framework/PostgreSQL/HTML/CSS/Linux</h3>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reginababaika)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reginababaika&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reginababaika&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reginababaika)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reginababaika)
 
 <div id="badges", align="center">
   <a href="https://www.linkedin.com/in/regina-lubkovskaia/">
