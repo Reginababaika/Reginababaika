@@ -5,7 +5,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=reginababaika)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reginababaika)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reginababaika )
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reginababaika)
 
 <h3 align="left">Contact me:</h3>
 <div id="badges">
